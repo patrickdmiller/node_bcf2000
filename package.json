@@ -1,0 +1,13 @@
+{
+  "name": "node_bcf2000",
+  "description": "node_bcf2000",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+   "midi":"",
+   "socket.io-client":"",
+   "express": "3.x",
+   "socket.io":"",
+   "websocket-client":""
+  }
+}
